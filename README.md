@@ -8,6 +8,14 @@ Ubuntu 18.04.3 LTS
 Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz
 3x GeForce RTX 2080 TI
 
+## Reproducing Submission
+To reproduct my submission without retrainig, do the following steps:
+1. [Installation](#installation)
+2. [Dataset Preparation](#Dataset Preparation)
+3. [Training](#Training) detail.
+4. [Testing](#Testing) detail.
+5. [Reference](#Reference)
+
 ## Installation
 
 this code was trained and tested with Python 3.6.10 and Pytorch 1.2.0 (Torchvision 0.4.0) on Ubuntu 18.04
