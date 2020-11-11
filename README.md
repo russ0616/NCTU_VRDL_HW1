@@ -50,7 +50,7 @@ The expected training times are:
 Model | GPUs | Image size | Training Epochs | Training Time
 ------------ | ------------- | ------------- | ------------- | -------------
 ResNext50 | 3x RTX 2080Ti | 400 x 400 | 10 | 30 minutes
-se-resnext50 | 3x RTX 2080Ti | 400 x 400 | 10 | 30 minutes
+ResNet50 | 3x RTX 2080Ti | 400 x 400 | 10 | 30 minutes
 
 ## Testing
 To train models, run following commands.
