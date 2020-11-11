@@ -11,7 +11,7 @@ Intel(R) Xeon(R) Silver 4210 CPU @ 2.20GHz
 ## Reproducing Submission
 To reproduct my submission without retrainig, do the following steps:
 1. [Installation](#installation)
-2. [Dataset Preparation](#Dataset Preparation)
+2. [Dataset Preparation](#Dataset-Preparation)
 3. [Training](#Training) detail.
 4. [Testing](#Testing) detail.
 5. [Reference](#Reference)
