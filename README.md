@@ -70,5 +70,8 @@ weight: ./checkpoint/best_result.pkl
 ```
 After testing the result csv file will be generate in the data folder.
 
+## Reference
+1. [Ranger](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer).
+2. [Car Model Classification](https://github.com/kamwoh/Car-Model-Classification)
 
 
